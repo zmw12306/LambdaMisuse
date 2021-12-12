@@ -1,6 +1,6 @@
 # Why Do Developers Remove Lambda Expressions in Java?
 
-This repository contains all the data, empirical results and scripts of our ASE 2021 paper: Why Do Developers Remove Lambda Expressions in Java?
+This repository contains all the data, empirical results and scripts of our paper: Why Do Developers Remove Lambda Expressions in Java?
 
 We open sourced our data here, including:
 
